@@ -1,0 +1,15 @@
+{
+  "name": "liquor",
+  "version": "1.0.0",
+  "description": "It is a personal project of delivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "run start"
+  },
+  "author": "Sahil Mahalle",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
